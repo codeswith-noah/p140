@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#MyCanvas{
+    border-color:gray;
+    border-width:3px;
+    border-style:ridge;
+}
